@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Background Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Background Group
+  m_GUID: c13049ed319493948a872a7884980b5f
+  m_SerializeEntries:
+  - m_GUID: 3764ab5184eda9345806b0d25ee83e5b
+    m_Address: Assets/Prefabs/Background2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - bg1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9220dafa8def80c4687a7826938ca228
+    m_Address: Assets/Prefabs/Background4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4743f085c228234894fea8051580390
+    m_Address: Assets/Prefabs/Background3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd86c2406a97be541ac030a782413b9f
+    m_Address: Assets/Prefabs/Background1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - bg1
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 769bfe6ab2a6a444a86d9e84d7987ec7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 82bf859a612912e47bfa616d2b8d36b6, type: 2}
+    - {fileID: 11400000, guid: 342450c93632698488fbe566520ffdd1, type: 2}
